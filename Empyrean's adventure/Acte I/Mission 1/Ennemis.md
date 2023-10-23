@@ -1,0 +1,5 @@
+1) [[Ennemis/FP 3/Chevalier]]
+2) [[Ennemis/FP <1/Zombi]]
+3) [[Ennemis/FP <1/Grand singe]]
+4) [[Ennemis/FP 1/Spectre]] + [[Ennemis/FP <1/Squelette]]
+5) [[Ennemis/FP <1/Bandit]]

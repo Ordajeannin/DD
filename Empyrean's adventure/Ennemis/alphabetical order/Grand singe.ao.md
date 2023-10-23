@@ -1,0 +1,3 @@
+(FP 1/2)
+
+![[Screenshot from 2023-08-20 15-54-10.png]]![[shutterstock_1143056630.webp]]
