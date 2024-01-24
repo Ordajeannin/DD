@@ -1,0 +1,17 @@
+
+
+La mort d’Eron et la disparition de Frederich ont dévasté les Eisenwald. Le lendemain de cette terrible nuit, à la place d’une grande fête en l’honneur du serment de Frederich s’est à la place organisée une grande cérémonie funéraire au temple de Tyr, au cœur d’Eauprofonde. Beaucoup de monde était sur place. Toute la famille Distel, ainsi que quelques autres grandes familles étaient présentes. De grands politiciens de la cité étaient là, suivis par tous les paladins et prêtres de Tyr de la région. 
+
+Le corps d’Eron fut enterré au domaine Eisenwald, à coté de la chapelle de Tyr dans le jardin du manoir. A la suite de cela, beaucoup de familles nobles renièrent les Eisenwald. Ils ne voulaient pas côtoyer des personnes incapables de maintenir leur famille dans le droit chemin. Anastasia était attristée par cela, alors qu’Harold avait surtout de la rancœur envers son frère. Cette nouvelle terrible réputation lui était due. 
+
+Les 5 années qui ont suivi furent difficiles. Malgré le soutien des Distel et l’aide apportée par certains paladins de Tyr proches d’Eron, Harold se renferma sur lui-même. Il ne s’entraînait plus, et ne sortait plus en ville. Avec sa mère, il s’occupait d’Ilma, pour qui il était  comme un nouveau père. Ilma était la seule à garder le sourire. Sans souvenir de la nuit de la mort d’Eron, elle vivait comme une enfant classique. Elle aimait jouer avec les gardes, dont le nombre a été doublé. Tout le monde dans le manoir l’adore. Elle est joyeuse, et continue de répandre un esprit d’apaisement dans le cœur des gens. Sans elle, il est probable qu’Harold aurait bien plus sombré dans la dépression. 
+
+Pendant ce temps, Anastasia utilisa cette tristesse pour commencer à s’entraîner. Eron avait toujours refusé qu’elle étudie et développe des pouvoirs de clerc. Selon lui, seules les femmes nées Eisenwald y avaient droit. Cela faisait partie des rares sujets où ils pouvaient se prendre la tête. Cependant, afin de ne pas bafouer la mémoire d’Eron, Anastasia eu la maline idée d’étudier les pouvoirs d’Ilmater. Bien sûr, elle continuait à reconnaître Tyr.  Lorsque certains paladins passaient au manoir pour s’assurer que tout allait bien, elle en profitait pour leur demander une leçon de combat. 
+
+Elle s’engagea à suivre la voie du Domaine de la Vie. Elle fit de nombreux allers-retours au domaine des Distel, afin de leur emprunter des livres et parchemins liés à Ilmater. Bien qu’elle essayait de se rassurer elle-même quant au fait qu’elle croyait toujours en Tyr, il lui arrivait parfois de prendre l’amulette d’Eron dans sa main pour s’assurer qu’elle ne la brûlait pas. Jamais ce ne fut le cas, à son grand soulagement. 
+
+Ces années ont d’autant plus rapproché Harold et sa mère. Ensemble et grâce à Ilma, ils se sont consolés, aidés et soutenus. 
+
+Quelques mois avant l’appel de l’armée de Neverwinter, Harold reçu donc une visite de Tyr et de son père (en tout cas selon lui), le poussant à retrouver un sens à vie et à se ré-entraîner comme décrit dans le premier document. Le jour de son départ, Anastasia décida de lui confier l’amulette d’Eron, tout en lui faisant promettre de revenir au manoir de temps en temps.
+
+En partant, l’objectif d’Harold était simple : prêter serment de gloire pour faire retrouver à sa famille sa reconnaissance et son rayonnement passé
