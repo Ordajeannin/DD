@@ -19,3 +19,6 @@ Frederich tient à la fidélité de ses membres. Lorsqu’ils sont petits, il fa
 sentent bien, il est plutôt indulgent avec eux. Dès qu’ils semblent totalement affiliés, il devient bien plus strict et sévère. Très rares sont les déserteurs. Il proscrit cet état d’esprit, et s’il retrouve le « traître », il en fait un exemple pour tout le monde.
 La raison pour laquelle personne n’a d’informations sur les origines du maître ou encore sur
 son réel objectif, c’est parce qu’il apparaît rarement. La grande majorité du temps, il laisse ses lieutenants s’occuper des membres. Il n’accorde de l’importance qu’à ceux qu’il juge « dignes et capables de pleinement servir son but ». Ce fut a priori le cas de Saeth, puisqu’il ne l’a pas tué alors qu’il avait déserté.
+
+
+L'objectif de Frederich est clair : il est convaincu que les Dieux, si ils toutefois ils existent, sont mauvais par naissance. il veut detruire toutes forme de religion, de temple, de culte divin. Et si il peut trouver un moyen de traverser les plans d'existances, pour s'y infiltrer et massacrer les Dieux... 
