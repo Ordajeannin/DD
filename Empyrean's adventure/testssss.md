@@ -1,4 +1,4 @@
-he
+
 | Position | Lettre | Conversion |
 | ---- | ---- | ---- |
 | 0 | a | ll |
@@ -27,9 +27,6 @@ he
 | 23 | x | oc |
 | 24 | y | oo |
 | 25 | z | or |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
 | Position | Lettre | Conversion |
 | ---- | ---- | ---- |
