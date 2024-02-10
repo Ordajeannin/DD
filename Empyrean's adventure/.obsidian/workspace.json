@@ -4,57 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "461b07e46af9f336",
+        "id": "f5a51c7f8c48106a",
         "type": "tabs",
         "children": [
           {
-            "id": "c3d64de33f5adf1f",
+            "id": "07a7cdd4eab86daa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acte I/Mission 2/Loot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81fe242431989c68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acte I/side quest/Yuan-ti quest/SIDE QUEST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63818c2bd2b0dbab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acte I/Mission 2/Rencontre.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00c06bfe0960df32",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Maps/Campements/campement foret.jpeg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acte I/Mission 2/Rencontre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acte I/Mission 2/Rencontre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Acte I/Mission 2/Rencontre.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,7 +127,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -191,22 +150,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63818c2bd2b0dbab",
+  "active": "07a7cdd4eab86daa",
   "lastOpenFiles": [
+    "Maps/Campements/campement foret.jpeg",
+    "Acte I/side quest/Yuan-ti quest/2_Ssathara.md",
+    "Acte I/side quest/Yuan-ti quest/1_traque du chef.md",
+    "Acte I/Mission 2/Loot.md",
+    "Acte I/side quest/Yuan-ti quest/Trame v1.md",
+    "Acte I/side quest/Yuan-ti quest/oeil du Serpent.md",
+    "Religion/Dieux/Ssarthra'axiss.md",
+    "Acte I/side quest/Yuan-ti quest/clan/Les Serpents Ecarlates.md",
+    "Acte I/side quest/Yuan-ti quest/clan/Les Langues Noires.md",
+    "Acte I/side quest/Yuan-ti quest/clan/Les Ecailles d'Obsidienne.md",
+    "Acte I/side quest/Yuan-ti quest/clan/Les Crocs d'ombres.md",
+    "Histoire des joueurs/Teo/Anastasia Eisenwald.md",
+    "Lettre Harold.md",
+    "Religion/Dieux/Torm.md",
+    "Religion/Dieux/Tyr.md",
+    "Religion/Dieux/Ilmater.md",
+    "Religion/Dieux/Lolth.md",
+    "Religion/Dieux/Selune.md",
+    "Religion/Dieux/Sylvanus.md",
+    "Acte I/side quest/Yuan-ti quest/clan",
+    "Aili.md",
+    "Acte I/Mission 2/Rencontre.md",
     "Acte I/Mission 2/Deroulement.md",
     "Acte I/Mission 2/Notes mission 2.md",
     "PNJ/Forge des ames/Forge des ames.md",
-    "Maps/Campements/campement foret.jpeg",
-    "Acte I/side quest/Yuan-ti quest/SIDE QUEST.md",
     "Acte I/Mission 1/Loot.md",
     "Maps/City/Neverwinter.jpg",
     "PNJ/Ecurie du dragon de guerre/Ecurie du dragon de guerre.md",
-    "Acte I/Mission 2/Loot.md",
-    "Acte I/Mission 2/Rencontre.md",
-    "Geographie/Neverwinter/Neverwinter.md",
-    "PNJ/Forge des ames/Helric.md",
-    "PNJ/Forge des ames/Barle.md",
-    "Geographie/Neverwinter/force judiciaire.md",
     "Maps/Campements/war palisades.jpeg",
     "Maps/City/Kashara.jpeg",
     "Maps/Campements/campement desert.jpeg",
@@ -215,28 +188,14 @@
     "Maps/Campements/campement bord de mer.jpeg",
     "Maps/Campements/Army camp.jpeg",
     "Maps/Campements/camp in trees.jpeg",
-    "Ennemis/FP 2/Dragonnet noir.md",
-    "Tools/Table des loot.md",
     "Acte I/side quest/Yuan-ti quest",
     "Acte I/side quest",
-    "Acte I/Mission 1/Deroulement.md",
-    "PNJ/Tour des anciens/Grigi.md",
-    "PNJ/Tour des anciens/Tour des anciens.md",
-    "Team.md",
-    "Ennemis/FP 3/Minotaure.md",
-    "Ennemis/FP 2/Peryton.md",
-    "Ennemis/FP <1/Gobelin.md",
-    "PNJ/Taverne du demi-pied/Harol.md",
-    "Ennemis/FP <1/Bandit.md",
-    "PNJ/Oasis Humide/Yasabel.md",
-    "PNJ/Oasis Humide/Oasis Humide.md",
     "PNJ/Ecurie du dragon de guerre",
     "Ennemis/FP 4",
     "Ennemis/FP 2",
     "Religion",
     "PNJ/Histoire",
     "Histoire des joueurs",
-    "Maps/Temple/Etage/Manoir",
-    "Maps/Temple/Etage/Little Fortress (2 parts)"
+    "Maps/Temple/Etage/Manoir"
   ]
 }

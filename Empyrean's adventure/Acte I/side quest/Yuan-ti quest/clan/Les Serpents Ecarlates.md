@@ -1,0 +1,1 @@
+Dirigé par Vyssara, une prêtresse rusée et manipulatrice qui utilise le pouvoir de la séduction et de la politique pour atteindre ses objectifs. Ils sont réputés pour leurs intrigues machiavéliques et leur capacité à manipuler les autres clans pour servir leurs intérêts.

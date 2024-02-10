@@ -1,0 +1,1 @@
+Dirigé par une hiérarchie complexe de conseillers et d'anciens guerriers, le clan des Crocs d'ombres est connu pour sa volonté de réforme et de changement au sein de la société des Yuan-ti. Ils prônent la coopération avec d'autres races et une approche plus subtile dans la quête de pouvoir et de dominance.

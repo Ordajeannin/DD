@@ -1,0 +1,1 @@
+Dirigé par Zharaxix, un prêtre guerrier impitoyable dévoué à la restauration du règne de [[Ssarthra'axiss]]. Ils sont connus pour leur brutalité et leur zèle fanatique dans la recherche de reliques anciennes et de sacrifices pour leur dieu déchu.

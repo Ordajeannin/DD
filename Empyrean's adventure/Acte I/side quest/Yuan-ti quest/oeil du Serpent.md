@@ -1,0 +1,1 @@
+Relique legendaire de [[Ssarthra'axiss]], censee abriter son ame et ses pouvoirs

@@ -1,0 +1,1 @@
+Dirigé par Naxithrax, un sorcier sombre et mystérieux obsédé par l'obtention de pouvoir magique. Ils sont connus pour leurs expériences magiques interdites et leur recherche de connaissances interdites pour renforcer leur position parmi les clans Yuan-ti.
